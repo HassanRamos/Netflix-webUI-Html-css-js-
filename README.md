@@ -1,1 +1,1 @@
-# Netflix-webUI-Html-css-js-
+just clone and run the index.html file 
